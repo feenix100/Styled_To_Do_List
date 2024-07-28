@@ -21,6 +21,8 @@ Creating a to-do list might seem redundant with so many existing options like te
 
 3. Copy and paste code from `index.html` into a text editor and save as html. Open in browser.
 
+![To-Do List Screenshot](screenshot.png)
+
 ## Usage
 
 1. Enter a task in the input field and click "Add Task" to add it to the list.
